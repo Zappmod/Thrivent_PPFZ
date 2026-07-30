@@ -1,6 +1,6 @@
-# BOB-for-Z-Bobathon
+# BOB-for-Z-Bobathon — Thrivent
 
-This repo contains the sample application and interactive lab guide site for the IBM Bob Premium Package for Z Bobathon.
+This repo contains the sample application and interactive lab guide site for the IBM Bob Premium Package for Z Bobathon — **Thrivent** client deployment.
 
 ## Contents
 
@@ -15,11 +15,13 @@ This repo contains the sample application and interactive lab guide site for the
 
 ## Live Lab Guide Site
 
-**Live site:** [https://pages.github.ibm.com/CE4S/BOB-for-Z-Bobathon/](https://pages.github.ibm.com/CE4S/BOB-for-Z-Bobathon/)
+**Client:** Thrivent
+
+**Live site:** [https://zappmod.github.io/Thrivent_PPFZ/](https://zappmod.github.io/Thrivent_PPFZ/)
 
 **Login credentials:**
-- Username: `bobathon`
-- Password: `BobPremiumZ2025!`
+- Username: `Bobathon_Thrivent`
+- Password: `MainframeIBM1!`
 
 ---
 
