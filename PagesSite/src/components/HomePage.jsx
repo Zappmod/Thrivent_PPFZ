@@ -56,33 +56,60 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* Sample Code Download */}
+      {/* Downloads */}
       <div className="max-w-6xl mx-auto px-8 py-8">
         <h2 className="text-sm font-semibold uppercase tracking-widest text-gray-400 mb-4">Before You Begin</h2>
-        <div className="bg-white border border-ibm-border rounded-xl p-6 flex items-center justify-between gap-6">
-          <div className="flex items-start gap-4">
-            <div className="shrink-0 bg-ibm-active rounded-lg p-3">
-              <svg className="h-6 w-6 text-ibm-indigo" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <div className="flex flex-col gap-4">
+          <div className="bg-white border border-ibm-border rounded-xl p-6 flex items-center justify-between gap-6">
+            <div className="flex items-start gap-4">
+              <div className="shrink-0 bg-ibm-active rounded-lg p-3">
+                <svg className="h-6 w-6 text-ibm-indigo" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
+                </svg>
+              </div>
+              <div>
+                <p className="font-semibold text-gray-900 mb-0.5">Sample Application Code</p>
+                <p className="text-sm text-gray-500 leading-relaxed">
+                  Download the GenApp COBOL sample application used throughout all labs. Extract the zip and open the folder in IBM Bob before starting Lab 1.
+                </p>
+              </div>
+            </div>
+            <a
+              href="/Thrivent_PPFZ/SampleCode.zip"
+              download="SampleCode.zip"
+              className="shrink-0 inline-flex items-center gap-2 bg-ibm-blue text-white px-5 py-2.5 rounded text-sm font-semibold hover:bg-blue-700 transition-colors"
+            >
+              <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
               </svg>
-            </div>
-            <div>
-              <p className="font-semibold text-gray-900 mb-0.5">Sample Application Code</p>
-              <p className="text-sm text-gray-500 leading-relaxed">
-                Download the GenApp COBOL sample application used throughout all labs. Extract the zip and open the folder in IBM Bob before starting Lab 1.
-              </p>
-            </div>
+              Download (.zip)
+            </a>
           </div>
-          <a
-            href="/Thrivent_PPFZ/SampleCode.zip"
-            download="SampleCode.zip"
-            className="shrink-0 inline-flex items-center gap-2 bg-ibm-blue text-white px-5 py-2.5 rounded text-sm font-semibold hover:bg-blue-700 transition-colors"
-          >
-            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
-            </svg>
-            Download (.zip)
-          </a>
+          <div className="bg-white border border-ibm-border rounded-xl p-6 flex items-center justify-between gap-6">
+            <div className="flex items-start gap-4">
+              <div className="shrink-0 bg-ibm-active rounded-lg p-3">
+                <svg className="h-6 w-6 text-ibm-indigo" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
+                </svg>
+              </div>
+              <div>
+                <p className="font-semibold text-gray-900 mb-0.5">Workshop Source</p>
+                <p className="text-sm text-gray-500 leading-relaxed">
+                  Download the full workshop source package containing lab guides, reference materials, and supporting assets.
+                </p>
+              </div>
+            </div>
+            <a
+              href="/Thrivent_PPFZ/WorkshopSource.zip"
+              download="WorkshopSource.zip"
+              className="shrink-0 inline-flex items-center gap-2 bg-ibm-blue text-white px-5 py-2.5 rounded text-sm font-semibold hover:bg-blue-700 transition-colors"
+            >
+              <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
+              </svg>
+              Download (.zip)
+            </a>
+          </div>
         </div>
       </div>
 
