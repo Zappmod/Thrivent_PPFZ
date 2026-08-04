@@ -73,6 +73,15 @@
       "duration": "30–45 min",
       "difficulty": "Intermediate",
       "icon": "☕"
+    },
+    {
+      "id": "dead-code-detector",
+      "title": "Lab 9: Dead Code Detector",
+      "description": "Use SQL queries against Bob's metadata database to find unreachable paragraphs, uncalled programs, and declared-but-never-accessed SQL tables, then generate a prioritised removal backlog.",
+      "file": "dead-code-detector.md",
+      "duration": "20–30 min",
+      "difficulty": "Beginner–Intermediate",
+      "icon": "🧹"
     }
   ]
 }
