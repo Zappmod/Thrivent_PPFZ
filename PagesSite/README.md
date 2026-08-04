@@ -4,11 +4,11 @@
 
 ---
 
-# IBM Bob Premium Package for Z — Bobathon Lab Guide Site
+# IBM Bob Premium Package for Z — Workshop Lab Guide Site
 
-A React + Vite lab guide site styled with IBM Carbon-inspired branding. Hosts seven hands-on labs for IBM Bob Premium Package for Z, and is designed to be deployed to GitHub Pages for client-facing bobathons.
+A React + Vite lab guide site styled with IBM Carbon-inspired branding. Hosts seven hands-on labs for IBM Bob Premium Package for Z, and is designed to be deployed to GitHub Pages for client-facing workshops.
 
-**Internal (IBM) live site:** [https://pages.github.ibm.com/CE4S/BOB-for-Z-Bobathon/](https://pages.github.ibm.com/CE4S/BOB-for-Z-Bobathon/)
+**Internal (IBM) live site:** [https://pages.github.ibm.com/CE4S/BOB-for-Z-Workshop/](https://pages.github.ibm.com/CE4S/BOB-for-Z-Workshop/)
 
 ---
 
@@ -17,7 +17,7 @@ A React + Vite lab guide site styled with IBM Carbon-inspired branding. Hosts se
 This site contains **sensitive IBM content** that is actively evolving — new use cases and labs are added weekly as the product grows. Please follow these rules to protect our material:
 
 - **Share the client-facing site link only during the event itself.** Do not distribute it too far in advance or leave it up indefinitely.
-- **Delete or take down the client-facing site 2–3 days after the bobathon ends.** This limits exposure and ensures participants are always seeing the most current content at the next event.
+- **Delete or take down the client-facing site 2–3 days after the workshop ends.** This limits exposure and ensures participants are always seeing the most current content at the next event.
 - **Use a unique username and password for every client deployment.** Never reuse credentials across different clients or events.
 - **Share login credentials privately and only with attendees.** Treat them the same way you would any IBM confidential resource — do not post them publicly or in open channels.
 - **Do not screenshot or redistribute lab content outside the event context.** The labs are living use cases that must be tested each time, as the product and underlying models are constantly evolving.
@@ -40,20 +40,20 @@ This site contains **sensitive IBM content** that is actively evolving — new u
 
 ## Default Credentials (Internal)
 
-- **Username:** `bobathon`
+- **Username:** `workshop`
 - **Password:** `BobPremiumZ2025!`
 
 ---
 
-## 🚀 Setting Up a Client-Facing Bobathon Site
+## 🚀 Setting Up a Client-Facing Workshop Site
 
 Follow these steps each time you need to spin up a public-facing version of this site for a client.
 
 ### Step 1 — Create a public GitHub repo
 
 Go to [github.com/new](https://github.com/new) and create a new **public** repo.
-- Name it something like `bobathon-<clientname>` (e.g. `bobathon-acme`)
-- Note the full URL — you'll need it in the next step (e.g. `https://github.com/your-username/bobathon-acme`)
+- Name it something like `workshop-<clientname>` (e.g. `workshop-acme`)
+- Note the full URL — you'll need it in the next step (e.g. `https://github.com/your-username/workshop-acme`)
 
 ### Step 2 — Copy this folder and let Bob do the wiring
 
@@ -69,7 +69,7 @@ I have in this directory a Pages site originally built for an IBM GitHub repo bu
 Help me edit this code for my github.com repo located here: <insert your repo URL>
 
 Also update the login credentials so that:
-- Username: Bobathon_<clientname>
+- Username: Workshop_<clientname>
 - Password: MainframeIBM1!
 
 If there are any manual steps I need to take, output them clearly at the end.
@@ -134,7 +134,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173/CE4S/BOB-for-Z-Bobathon/](http://localhost:5173/CE4S/BOB-for-Z-Bobathon/)
+Open [http://localhost:5173/CE4S/BOB-for-Z-Workshop/](http://localhost:5173/CE4S/BOB-for-Z-Workshop/)
 
 > **Note:** If you have re-pathed this for a different repo, update the URL to match the `base` in `vite.config.js`.
 

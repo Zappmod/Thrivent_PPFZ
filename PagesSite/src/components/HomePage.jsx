@@ -33,7 +33,7 @@ export default function HomePage() {
                 </h1>
               </div>
             </div>
-            <p className="text-lg text-gray-500 font-light mb-2">Bobathon Guide</p>
+            <p className="text-lg text-gray-500 font-light mb-2">Workshop Guide</p>
             <p className="text-gray-600 mb-8 leading-relaxed">
               Eight hands-on labs to get you building with IBM Bob Premium Package for Z — from workspace setup through technical design, application discovery &amp; understanding, impact analysis, refactoring, spec-driven code generation, UI modernization, and COBOL to Java modernization.
             </p>

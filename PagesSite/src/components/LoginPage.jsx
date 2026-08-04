@@ -38,7 +38,7 @@ export default function LoginPage({ onSuccess }) {
           <h1 className="text-white text-xl font-bold text-center leading-tight">
             IBM Bob Premium Package for Z
           </h1>
-          <p className="text-white/70 text-sm mt-1">Bobathon Guide</p>
+          <p className="text-white/70 text-sm mt-1">Workshop Guide</p>
         </div>
 
         {/* Form */}

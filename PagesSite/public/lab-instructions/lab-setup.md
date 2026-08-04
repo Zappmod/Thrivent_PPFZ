@@ -54,7 +54,7 @@ ACTION: Under bob settings, locate the general settings.
 
 ![Bob general settings](images/00-2.png)
 
-ACTION: Select the team's name from the drop down, for instance, in the screenshot **techzone-bobathon**. Please ask your instructor for the team's name for this bobathon.
+ACTION: Select the team's name from the drop down, for instance, in the screenshot **techzone-workshop**. Please ask your instructor for the team's name for this workshop.
 
 ![Select team name](images/00-3.png)
 

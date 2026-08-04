@@ -1,5 +1,5 @@
 // Credentials are stored as SHA-256 hashes — never as plaintext.
-// Default: username = Bobathon_Thrivent  /  password = MainframeIBM1!
+// Default: username = Workshop_Thrivent  /  password = MainframeIBM1!
 // To change: run `node -e "require('crypto').createHash('sha256').update('yourvalue').digest('hex') |> console.log"` and replace the hashes below.
 // Then redeploy. Optionally set VITE_USERNAME_HASH and VITE_PASSWORD_HASH as GitHub repo secrets and
 // reference them in vite.config.js define{} to avoid committing hashes to source.

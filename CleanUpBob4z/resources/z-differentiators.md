@@ -282,7 +282,7 @@ Bob Premium for Z is specifically designed for mainframe modernization, offering
 
 ### Training
 
-- Z Bobathon workshops
+- Z Workshop sessions
 - Online tutorials
 - Video demonstrations
 - Case studies

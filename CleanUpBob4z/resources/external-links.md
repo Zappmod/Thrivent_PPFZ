@@ -35,7 +35,7 @@
 
 ### Webinars
 
-- [Monthly Z Bobathon Webinar](https://bob.ibm.com/webinars/z-monthly)
+- [Monthly Z Workshop Webinar](https://bob.ibm.com/webinars/z-monthly)
 - [Modernization Best Practices](https://bob.ibm.com/webinars/best-practices)
 - [Customer Success Stories](https://bob.ibm.com/webinars/success-stories)
 

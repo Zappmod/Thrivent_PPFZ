@@ -602,7 +602,7 @@ Switch to Z Code mode:
 
 ### Training
 
-- Z Bobathon workshops
+- Z Workshop sessions
 - Video tutorials
 - Hands-on labs
 - Case studies

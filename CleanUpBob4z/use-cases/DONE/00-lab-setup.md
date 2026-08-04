@@ -53,7 +53,7 @@ This is where you interact with Bob. Type prompts, review responses, and approve
 ACTION: Under bob settings, locate the general settings.
 ![Alt text](../../images/00-2.png)
 
-ACTION: Select the team’s name from the drop down, for instance, in the screenshot **techzone-bobathon**. Please ask your instructor for the team’s name for this bobathon.
+ACTION: Select the team’s name from the drop down, for instance, in the screenshot **techzone-workshop**. Please ask your instructor for the team’s name for this workshop.
 
 ![Alt text](../../images/00-3.png)
 

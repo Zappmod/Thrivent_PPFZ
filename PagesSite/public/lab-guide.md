@@ -1,6 +1,6 @@
 ---
 title: "Bob Premium Package for Z"
-subtitle: "Bobathon Lab Guide"
+subtitle: "Workshop Lab Guide"
 author: "IBM Client Engineering"
 date: "2025-07-14"
 format:
@@ -86,7 +86,7 @@ This is where you interact with Bob. Type prompts, review responses, and approve
 
 ![Bob general settings](images/00-2.png)
 
-**ACTION:** Select the team's name from the drop down, for instance, in the screenshot **techzone-bobathon**. Please ask your instructor for the team's name for this bobathon.
+**ACTION:** Select the team's name from the drop down, for instance, in the screenshot **techzone-workshop**. Please ask your instructor for the team's name for this workshop.
 
 ![Select team name](images/00-3.png)
 
@@ -773,7 +773,7 @@ By the end of this lab, you will be able to:
 
 **ACTION:** Open `LGRENPOL-spec.md` in the editor using preview
 
-Example of where it would be located: `/Users/<username>/Downloads/PPFZ BOBATHON/Sample Code/LGRENPOL-spec.md`
+Example of where it would be located: `/Users/<username>/Downloads/PPFZ WORKSHOP/Sample Code/LGRENPOL-spec.md`
 
 Note the key elements Bob will need to honor:
 

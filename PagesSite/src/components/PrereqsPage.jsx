@@ -271,7 +271,7 @@ export default function PrereqsPage() {
               <li>Under the <strong>General</strong> tab, open the <strong>Team</strong> dropdown and select the team name your instructor has provided</li>
             </ol>
             <ScreenShot src="Prereq-11.png" alt="Bob Settings General tab showing Team dropdown" />
-            <ScreenShot src="Prereq-12.png" alt="Team dropdown open with techzone-bobathon selected" />
+            <ScreenShot src="Prereq-12.png" alt="Team dropdown open with techzone-workshop selected" />
             <ol className="list-decimal ml-5 space-y-1" start={3}>
               <li>If prompted to install the premium package, select <strong>Install</strong></li>
             </ol>

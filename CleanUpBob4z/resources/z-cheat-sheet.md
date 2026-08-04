@@ -447,4 +447,4 @@ How do I [task description]?
 
 **Made with Bob Premium for Z** ☕
 
-**Print this page for quick reference during your Z Bobathon!**
+**Print this page for quick reference during your Z Workshop!**

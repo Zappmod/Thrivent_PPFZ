@@ -141,7 +141,7 @@ def build_html(body_html: str) -> str:
 <div class="title-page">
   <img src="file://{COVER_IMAGE}" />
   <h1>Bob Premium Package for Z</h1>
-  <p><strong>Bobathon Lab Guide</strong></p>
+  <p><strong>Workshop Lab Guide</strong></p>
   <p><em>IBM Client Engineering — 2025</em></p>
   <p><em>Created by Sophie Harrison &amp; Renate Hamrick — Application Modernization for Z team</em></p>
 </div>

@@ -28,7 +28,7 @@ export default function Header() {
               : 'border-transparent text-gray-600 hover:text-gray-900'
           }`}
         >
-          Bobathon Guide
+          Workshop Guide
         </Link>
         <Link
           to="/resources"

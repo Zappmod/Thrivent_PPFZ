@@ -21,7 +21,7 @@ By the end of this lab, you will be able to:
 
 1. Open `LGRENPOL-spec.md` in the editor using preview
 
-Example of where it would be located: `/Users/<username>/Downloads/PPFZ BOBATHON/Sample Code/LGRENPOL-spec.md`
+Example of where it would be located: `/Users/<username>/Downloads/PPFZ WORKSHOP/Sample Code/LGRENPOL-spec.md`
 
 Note the key elements Bob will need to honor:
 
